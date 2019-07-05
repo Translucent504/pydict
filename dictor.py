@@ -12,3 +12,4 @@ while True:
 	meaning = dict['meaning']
 	pprint.pprint(meaning)
 	print(dict['origin'])
+	print()
